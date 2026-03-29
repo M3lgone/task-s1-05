@@ -7,6 +7,5 @@ class Rectangle extends Shape
     public function getArea(): float
     {
         return ($this->width * $this->height);
-
     }
 }

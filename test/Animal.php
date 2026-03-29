@@ -1,8 +1,5 @@
 <?php
 
-require_once 'Cat.php';
-require_once 'Dog.php';
-
 abstract class Animal
 {
     protected $name;
